@@ -2,9 +2,13 @@
 
 ☢️ A fresh atomic theme just came out of the oven.
 
-![nuclear-material](./img/nuclear-material.png)
+<img src="./img/nuclear-material.png" width="100" height="100" align="center">
 
-Nuclear-Material offers a Hand-selected colors, so as not to tire your eyes and boost your creativity
+✨ Nuclear-Material offers a Hand-selected colors, so as not to tire your eyes and boost your creativity ✨
+
+### See aslo
+
+[OneDark-Pro](https://github.com/Binaryify/OneDark-Pro)
 
 ### Screenshot
 
@@ -14,7 +18,7 @@ Nuclear-Material offers a Hand-selected colors, so as not to tire your eyes and 
 > We recommend this configuration to boost your workflow.
 
 ```json
- "editor.fontSize": 20,
+ "editor.fontSize": 15,
  "editor.lineHeight": 30,
  "editor.fontFamily": "JetBrains Mono",
 ```

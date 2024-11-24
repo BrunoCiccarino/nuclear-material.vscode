@@ -3,7 +3,8 @@
   "displayName": "nuclear-material-theme",
   "description": "☢️ A fresh atomic theme just came out of the oven. ☢️",
   "icon": "img/nuclear-material.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "BrunoCiccarino",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -31,7 +32,8 @@
     "nuclear-material",
     "atom-material",
     "OneDark-Pro",
-    "atom-material-icons"
+    "atom-material-icons",
+    "fire-obisidian"
 ],
   "categories": [
     "Themes"
@@ -42,6 +44,11 @@
         "label": "nuclear-material",
         "uiTheme": "vs-dark",
         "path": "./themes/nuclear-material-color-theme.json"
+      },
+      {
+        "label": "Fire Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fire-Obsidian-color-theme.json"
       }
     ]
   }
