@@ -1,0 +1,48 @@
+{
+  "name": "nuclear-material-theme",
+  "displayName": "nuclear-material-theme",
+  "description": "☢️ A fresh atomic theme just came out of the oven. ☢️",
+  "icon": "img/nuclear-material.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "author": {
+    "email": "brunociccarinoo@gmail.com",
+    "name": "Bruno Ciccarino",
+    "url": "https://github.com/BrunoCiccarino"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoCiccarino/nuclear-material.vscode.git"
+  },
+
+  "keywords": [
+    "NekoVsTheme",
+    "Neko",
+    "Shades of Purple",
+    "Dark Theme",
+    "VSCode Power User",
+    "Shade of Purple",
+    "Cobalt",
+    "Sheep",
+    "sheeplabs",
+    "sheepy",
+    "nuclear-material",
+    "atom-material",
+    "OneDark-Pro",
+    "atom-material-icons"
+],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nuclear-material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nuclear-material-color-theme.json"
+      }
+    ]
+  }
+}
