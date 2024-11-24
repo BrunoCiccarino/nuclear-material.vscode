@@ -11,8 +11,11 @@
 [OneDark-Pro](https://github.com/Binaryify/OneDark-Pro)
 
 ### Screenshot
-
+- nuclear-material
 ![Screenshot](./img/screenshot.jpg)
+
+- Fire Obsidian
+![screenshot](./img/screenshot2.jpg)
 
 > [!NOTE]
 > We recommend this configuration to boost your workflow.
