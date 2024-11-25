@@ -1,10 +1,13 @@
-# nuclear-material-theme README
+# nuclear-material-theme 
 
-☢️ A fresh atomic theme just came out of the oven.
+☢️ A fresh atomic theme just came out of the oven. ☢️
 
-<img src="./img/nuclear-material.png" width="100" height="100" align="center">
+<img src="./img/nuclear-material.png" width="100" height="100">
 
 ✨ Nuclear-Material offers a Hand-selected colors, so as not to tire your eyes and boost your creativity ✨
+
+> [!NOTE]
+> This theme pack contains a theme that is a fork of the onedark-pro theme..
 
 ### See aslo
 
